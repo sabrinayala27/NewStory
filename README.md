@@ -16,5 +16,5 @@
 
 Crear un directorio llamado "NewStory" con 3 archivos dentro desde el comando de línea, controlar las versiones y seguir los pasos para subirlo a github.
 
-Editamos el archivo "Chapter1.txt" desde una rama y luego lo mandamos al "main" con el cambio realizado.
+Una vez subido editamos el archivo "Chapter1.txt" desde un "branch" y luego lo mandamos al "main" con el cambio realizado.
 [Chapter1.txt](https://github.com/sabrinayala27/NewStory/network "Chapter1.txt")
