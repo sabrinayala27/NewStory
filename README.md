@@ -1,7 +1,7 @@
 # NewStory 📘
 ### My MasterPiece.
 
-#### Este ejercicio fue un ejemplo de como utilizar git con la línea de comando y poder aprender a subir a nuestra cuenta de GitHub directorios, archivos y proyectos locales para control de versiones, bifurcación,  pull request, entre otras funciones más.
+### Este ejercicio fue un ejemplo de como utilizar git con la línea de comando y poder aprender a subir a nuestra cuenta de GitHub directorios, archivos y proyectos locales para control de versiones, bifurcación,  pull request, entre otras funciones más.
 
 
 
